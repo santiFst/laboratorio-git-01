@@ -8,3 +8,32 @@ Mis amigos me llaman por el apodo de "calito" o "caliche"; no tengo problema, po
 # ¿Cómo supe que quería estudiar Ing.Sistemas?
 
 Bueno, desde muy pequeño me interesaron los videojuegos, tuve la oportunidad de que mi familia tuviese un PC de escritorio donde echaba ratos de plataformas de juegos Flash como Friv o Kizi para esos tiempos, descubrí que podía descargar videojuegos y jugarlos offline; me topé con que algunos juegos no iban tan bien como en los tutoriales en YouTube, busqué el por qué y claro... Los PC's donde los descargaban eran mejores que el de mi familia, desde ahi se abrieron mis ojos y le eché mano a cambiar, limpiar y comparar componentes del PC de la sala. Pasó el tiempo, logré armar un setup "decente" y después surgió la duda de como podía jugar el mismo juego del PC en la tablet, henos aquí.
+
+
+
+                .88888888:.
+               88888888.88888.
+             .8888888888888888.
+             888888888888888888
+             88' _`88'_  `88888
+             88 88 88 88  88888
+             88_88_::_88_:88888
+             88:::,::,:::::8888
+             88`:::::::::'`8888
+            .88  `::::'    8:88.
+           8888            `8:888.
+         .8888'             `888888.
+        .8888:..  .::.  ...:'8888888:.
+       .8888.'     :'     `'::`88:88888
+      .8888        '         `.888:8888.
+     888:8         .           888:88888
+   .888:88        .:           888:88888:
+   8888888.       ::           88:888888
+   `.::.888.      ::          .88888888
+  .::::::.888.    ::         :::`8888'.:.
+ ::::::::::.888   '         .::::::::::::
+ ::::::::::::.8    '      .:8::::::::::::.
+.::::::::::::::.        .:888:::::::::::::
+:::::::::::::::88:.__..:88888:::::::::::'
+ `'.:::::::::::88888888888.88:::::::::'
+       `':::_:' -- '' -'-' `':_::::'` 
